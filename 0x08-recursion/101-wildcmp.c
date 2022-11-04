@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * length - a function auxiliar that returns the length of a string
+ * length - function auxiliar that returns the length of a string
  * @s: input
  * Return: output
  */
@@ -13,8 +13,8 @@ int length(char *s)
 	}
 	return (0);
 }
- /**
- * aux - function auxiliar.
+/**
+ * aux - a function auxiliar.
  * @s: input
  * @x: input
  * Return: output
